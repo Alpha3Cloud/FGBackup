@@ -4,41 +4,54 @@ title: FGBackup Documentation
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/A3C_Framed.png" alt="Alpha3Cloud Logo" width="280"/>
+  <img src="{{ site.baseurl }}/images/A3C_Framed.png" alt="Alpha3Cloud Logo" width="260"/>
 </p>
 
 # FGBackup Documentation
 
 Welcome to the **FGBackup** documentation portal, maintained by [Alpha3Cloud](https://alpha3cloud.com).  
-Here you’ll find everything you need to install, use, and contribute to FGBackup.
+Here you will find everything you need to **install, configure, and contribute** to FGBackup.
 
 ---
 
-## Quick Links
-- [📥 Install and Set Up FGBackup]({{ site.baseurl }}/installation.html)
-- [🛠 How to Run Backups and Restore Configurations]({{ site.baseurl }}/usage.html)
-- [🤝 Contribute to the Project]({{ site.baseurl }}/contributing.html)
-- [🗺 Roadmap & Future Plans]({{ site.baseurl }}/roadmap.html)
+## 🚀 Quick Start
+
+Get started quickly with these resources:
+- [📥 Installation Guide]({{ site.baseurl }}/installation.html) – Set up FGBackup in minutes.
+- [🛠 Usage Guide]({{ site.baseurl }}/usage.html) – Run backups, manage storage, and restore configurations.
+- [🤝 Contributing Guide]({{ site.baseurl }}/contributing.html) – Learn how to help improve FGBackup.
+- [🗺 Roadmap]({{ site.baseurl }}/roadmap.html) – See where the project is heading.
 
 ---
 
-## About FGBackup
-FGBackup is an open-source tool designed to **automate configuration backups** for Fortinet (FortiGate) firewalls.  
-It supports:
-- SSH- and API-based backups
-- Cloud storage (AWS S3, Azure Blob, etc.)
-- Automated scheduling and notifications
-- Rollback and version tracking
+## 🔧 What is FGBackup?
 
-FGBackup is ideal for IT teams, MSPs, and enterprises who need reliable, auditable backup automation.
+FGBackup is an **open-source automation tool** for **Fortinet (FortiGate) firewall configuration backups**.  
+It is designed for IT teams, MSPs, and enterprises who need:
+- Automated configuration backups via **SSH or API**  
+- Flexible storage options (local or cloud, including AWS S3 and Azure Blob)  
+- Scheduled, auditable backup workflows  
+- Change tracking and version control  
+- Easy restoration and rollback of firewall configurations  
 
 ---
 
-## Get Involved
-We welcome community contributions!  
-- Report bugs via [Issues](https://github.com/Alpha3Cloud/FGBackup/issues)  
-- Submit pull requests via [GitHub](https://github.com/Alpha3Cloud/FGBackup/pulls)  
-- Discuss improvements (enable Discussions in the repo for open collaboration)
+## 🌐 Why Use FGBackup?
+
+- **Reduce Risk** – Never lose a configuration due to error or hardware failure.  
+- **Save Time** – Automate repetitive backup tasks.  
+- **Stay Compliant** – Maintain auditable records of all backups.  
+- **Collaborate Easily** – Built for open-source contribution and extensibility.
+
+---
+
+## 👥 Contribute & Connect
+
+FGBackup is community-driven!  
+You can:
+- [Report Issues](https://github.com/Alpha3Cloud/FGBackup/issues)  
+- [Submit Pull Requests](https://github.com/Alpha3Cloud/FGBackup/pulls)  
+- Join discussions (enable Discussions in the repo for community collaboration)
 
 ---
 
