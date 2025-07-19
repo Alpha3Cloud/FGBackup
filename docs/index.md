@@ -4,7 +4,7 @@ title: FGBackup Documentation
 ---
 
 <p align="center">
-  <img src="https://github.com/Alpha3Cloud/FGBackup/blob/main/docs/images/A3C_Framed.png" alt="Alpha3Cloud Logo" width="280"/>
+  <img src="https://raw.githubusercontent.com/Alpha3Cloud/FGBackup/refs/heads/main/docs/images/A3C_Framed.png" alt="Alpha3Cloud Logo" width="280"/>
 </p>
 
 # FGBackup Documentation
