@@ -1,0 +1,6 @@
+title: FGBackup Documentation
+description: Official documentation for FGBackup, an open-source Fortinet backup automation tool.
+theme: minima
+baseurl: ""
+url: "https://alpha3cloud.github.io/FGBackup"
+markdown: kramdown
