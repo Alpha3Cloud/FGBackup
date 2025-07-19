@@ -18,14 +18,6 @@ This guide explains how to run backups, track success, and restore configuration
   python fgbackup.py --all-devices --verbose
   ```
 
-## Tracking Success
-- Logs are stored in the `logs/` directory by default.
-- Failed backups trigger alerts (via email, Slack, or Teams if configured).
-- You can view backup history using:
-  ```bash
-  python fgbackup.py --history
-  ```
-
 ## Restoring Configurations
 1. Identify the desired backup from the `backups/` folder (or cloud storage).
 2. Push the backup to the device:
